@@ -11,10 +11,10 @@ Simple working implementation of Roblox's OAuth 2.0 API.
 - Basic animations
 ## Previews
 
-##### Dark mode
+#### Dark mode
 ![](https://i.imgur.com/BeZp8tj.png)
 
-##### Light mode
+#### Light mode
 ![](https://i.imgur.com/zwX4qTj.png)
 
 ## Getting Started
